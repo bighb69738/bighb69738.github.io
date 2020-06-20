@@ -6,10 +6,28 @@
     <description>Recent content in Tour on Vic&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 20 Jun 2020 20:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2020 21:10:00 +0800</lastBuildDate>
     
 	<atom:link href="https://bighb69738.github.io/categories/tour/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Third</title>
+      <link>https://bighb69738.github.io/blog/third/</link>
+      <pubDate>Sat, 20 Jun 2020 21:10:00 +0800</pubDate>
+      
+      <guid>https://bighb69738.github.io/blog/third/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>https://bighb69738.github.io/blog/second/</link>
+      <pubDate>Sat, 20 Jun 2020 21:00:00 +0800</pubDate>
+      
+      <guid>https://bighb69738.github.io/blog/second/</guid>
+      <description>我是第二篇文章</description>
+    </item>
     
     <item>
       <title>First</title>

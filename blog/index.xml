@@ -6,27 +6,18 @@
     <description>Recent content in Blogs on Vic&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 20 Jun 2020 21:10:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2020 17:20:00 +0800</lastBuildDate>
     
 	<atom:link href="https://bighb69738.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Third</title>
-      <link>https://bighb69738.github.io/blog/third/</link>
-      <pubDate>Sat, 20 Jun 2020 21:10:00 +0800</pubDate>
+      <title>首篇</title>
+      <link>https://bighb69738.github.io/blog/%E9%A6%96%E7%AF%87%E7%99%BC%E6%96%87/</link>
+      <pubDate>Sun, 21 Jun 2020 17:20:00 +0800</pubDate>
       
-      <guid>https://bighb69738.github.io/blog/third/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://bighb69738.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://bighb69738.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://bighb69738.github.io/blog/%E9%A6%96%E7%AF%87%E7%99%BC%E6%96%87/</guid>
+      <description>架設個人網站的原因  分享旅遊、美食、所見所聞 展示作品集 技術文章   期許 希望自己能定期發文，盡量多發一些有用的文章，不論是美食或旅遊介紹、技術上的分享，也正因為『 人生只比當歸長 』，希望藉由此網站，紀錄每個美好的當下。</description>
     </item>
     
   </channel>

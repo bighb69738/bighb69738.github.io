@@ -20,25 +20,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Second</title>
-      <link>https://bighb69738.github.io/blog/second/</link>
-      <pubDate>Sat, 20 Jun 2020 21:00:00 +0800</pubDate>
-      
-      <guid>https://bighb69738.github.io/blog/second/</guid>
-      <description>我是第二篇文章</description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>https://bighb69738.github.io/blog/test/</link>
-      <pubDate>Sat, 20 Jun 2020 20:30:00 +0800</pubDate>
-      
-      <guid>https://bighb69738.github.io/blog/test/</guid>
-      <description>Hello World
-I am vic
-一級標題 二級標題 六集標題 我是 vic ， 我喜歡打球</description>
-    </item>
-    
   </channel>
 </rss>
